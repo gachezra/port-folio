@@ -1,7 +1,7 @@
 # 📋 Developer Portfolio Template
 This repository features a simple static template using only HTML and CSS. It's useful for developers who want a simple portfolio website to complement their CV.
 
-Here's a [live demo of the portfolio](https:gachezra.github.io/port-folio).
+Here's a [live demo of the portfolio](https://gachezra.github.io/port-folio).
 
 The template is making use of [Tailwind CSS](https://tailwindcss.com/) (via CDN) for simplicity. Some of the components' implementation was based on [Tailwind UI](https://tailwindui.com/).
 
